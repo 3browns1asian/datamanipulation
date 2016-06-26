@@ -12,6 +12,7 @@ flex_file = open('flex.txt', 'r')
 
 flex_arr = [int(line) for line in flex_file]
 
+#flex_arr = flex_arr[5:]
 # Bad Flex sensor value
 if 1023 in flex_arr:
     flex_arr.remove(1023)
