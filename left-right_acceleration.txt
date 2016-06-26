@@ -1,0 +1,215 @@
+left-right
+
+LSM9DS0 9DOF Sensor Test
+
+Found LSM9DS0 9DOF
+------------------------------------
+Sensor:       LSM9DS0_A
+Driver Ver:   1
+Unique ID:    1001
+Max Value:    0.00 m/s^2
+Min Value:  S0_M
+Driver Ver:   1
+Unique ID:    1002
+Max Value:    0.00 uT
+Min Value:    0.00 uT
+Resolution:   0.00 uT
+------------------------------------
+
+------------------------------------
+Sensor:       LSM9DS0_G
+Driver Ver:   1
+Unique ID:    1003
+Max Value:    0.00 rad/s
+Min Value:    0.00 rad/s
+Resolution:   0.00 rad/s
+------------------------------------
+
+------------------------------------
+Sensor:       LSM9DS0_T
+Driver Ver:   1
+Unique ID:    1004
+Max VLSM9DS0 9DOF Sensor Test
+
+LSM9DS0 9DOF Sensor Test
+
+Found LSM9DS0 9DOF
+------------------------------------
+Sensor:       LSM9DS0_A
+Driver Ver:   1
+Unique ID:    1001
+Max Value:    0.00 m/s^2
+Min Value:    0.00 m/s^2
+Resolution:   0.00 m/s^2
+------------------------------------
+
+------------------------------------
+Sensor:       LSM9DS0_M
+Driver Ver:   1
+Unique ID:    1002
+Max Value:    0.00 uT
+Min Value:    0.00 uT
+Resolution:   0.00 uT
+------------------------------------
+
+------------------------------------
+Sensor:       LSM9DS0_G
+Driver Ver:   1
+Unique ID:    1003
+Max Value:    0.00 rad/s
+Min Value:    0.00 rad/s
+Resolution:   0.00 rad/s
+------------------------------------
+
+------------------------------------
+Sensor:       LSM9DS0_T
+Driver Ver:   1
+Unique ID:    1004
+Max Value:    0.00 C
+Min Value:    0.00 C
+Resolution:   0.00 C
+------------------------------------
+
+
+Accel X: -1.00   	Y: 0.17   	Z: 9.34  	m/s^2
+Magn. X: -0.01   	Y: 0.88   	Z: 0.41  	gauss
+Gyro  X: -1.65   	Y: 0.52   	Z: -4.68  	dps
+Temp: 23.75 *C
+**********************
+
+Accel X: -1.10   	Y: 0.31   	Z: 9.31  	m/s^2
+Magn. X: -0.01   	Y: 0.88   	Z: 0.41  	gauss
+Gyro  X: -2.57   	Y: 0.91   	Z: -2.41  	dps
+Temp: 23.75 *C
+**********************
+
+Accel X: -1.06   	Y: 0.20   	Z: 9.32  	m/s^2
+Magn. X: -0.01   	Y: 0.89   	Z: 0.41  	gauss
+Gyro  X: -2.75   	Y: 0.56   	Z: -4.87  	dps
+Temp: 23.87 *C
+**********************
+
+Accel X: -1.01   	Y: 0.22   	Z: 9.36  	m/s^2
+Magn. X: -0.01   	Y: 0.89   	Z: 0.41  	gauss
+Gyro  X: -2.57   	Y: 0.51   	Z: -5.07  	dps
+Temp: 24.00 *C
+**********************
+
+Accel X: -1.04   	Y: 0.20   	Z: 9.37  	m/s^2
+Magn. X: -0.00   	Y: 0.89   	Z: 0.41  	gauss
+Gyro  X: -2.84   	Y: 0.56   	Z: -5.43  	dps
+Temp: 24.12 *C
+**********************
+
+Accel X: -1.00   	Y: -0.54   	Z: 9.35  	m/s^2
+Magn. X: -0.02   	Y: 0.90   	Z: 0.41  	gauss
+Gyro  X: -1.44   	Y: 0.51   	Z: -17.91  	dps
+Temp: 24.00 *C
+**********************
+
+Accel X: -1.41   	Y: -0.02   	Z: 9.42  	m/s^2
+Magn. X: -0.04   	Y: 0.95   	Z: 0.41  	gauss
+Gyro  X: -2.82   	Y: -0.14   	Z: -23.89  	dps
+Temp: 24.00 *C
+**********************
+
+Accel X: -1.19   	Y: 1.51   	Z: 9.40  	m/s^2
+Magn. X: -0.03   	Y: 0.95   	Z: 0.41  	gauss
+Gyro  X: -3.47   	Y: 0.41   	Z: -1.67  	dps
+Temp: 24.12 *C
+**********************
+
+Accel X: -1.05   	Y: 1.32   	Z: 9.48  	m/s^2
+Magn. X: -0.04   	Y: 0.96   	Z: 0.41  	gauss
+Gyro  X: -5.01   	Y: -0.89   	Z: -5.29  	dps
+Temp: 24.12 *C
+**********************
+
+Accel X: -0.88   	Y: -0.20   	Z: 9.38  	m/s^2
+Magn. X: 0.07   	Y: 0.79   	Z: 0.39  	gauss
+Gyro  X: -3.09   	Y: 0.23   	Z: -14.97  	dps
+Temp: 24.25 *C
+**********************
+
+Accel X: -0.99   	Y: 0.12   	Z: 9.35  	m/s^2
+Magn. X: 0.65   	Y: 0.69   	Z: 0.39  	gauss
+Gyro  X: -0.99   	Y: 0.83   	Z: -4.94  	dps
+Temp: 24.25 *C
+**********************
+
+Accel X: -0.59   	Y: -0.14   	Z: 9.43  	m/s^2
+Magn. X: 0.07   	Y: 0.79   	Z: 0.40  	gauss
+Gyro  X: -3.18   	Y: -0.38   	Z: -12.18  	dps
+Temp: 24.37 *C
+**********************
+
+Accel X: -1.37   	Y: 0.94   	Z: 9.37  	m/s^2
+Magn. X: -0.03   	Y: 0.95   	Z: 0.41  	gauss
+Gyro  X: -3.41   	Y: -0.17   	Z: -18.94  	dps
+Temp: 24.25 *C
+**********************
+
+Accel X: -0.82   	Y: 0.98   	Z: 9.37  	m/s^2
+Magn. X: -0.04   	Y: 0.96   	Z: 0.41  	gauss
+Gyro  X: -5.49   	Y: -0.74   	Z: 4.09  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -1.17   	Y: -0.07   	Z: 9.49  	m/s^2
+Magn. X: 0.18   	Y: 0.80   	Z: 0.41  	gauss
+Gyro  X: 0.66   	Y: 1.44   	Z: -15.53  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -0.82   	Y: -0.12   	Z: 9.32  	m/s^2
+Magn. X: 0.81   	Y: 1.03   	Z: 0.42  	gauss
+Gyro  X: -4.26   	Y: -0.17   	Z: 4.86  	dps
+Temp: 24.37 *C
+**********************
+
+Accel X: -0.67   	Y: -0.18   	Z: 9.39  	m/s^2
+Magn. X: 0.16   	Y: 0.82   	Z: 0.41  	gauss
+Gyro  X: -3.97   	Y: 0.50   	Z: 10.06  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -1.19   	Y: 1.09   	Z: 9.39  	m/s^2
+Magn. X: -0.03   	Y: 0.95   	Z: 0.42  	gauss
+Gyro  X: -3.58   	Y: 0.52   	Z: 11.77  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -1.13   	Y: 1.02   	Z: 9.41  	m/s^2
+Magn. X: -0.03   	Y: 0.95   	Z: 0.41  	gauss
+Gyro  X: -2.71   	Y: 0.44   	Z: -6.09  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -1.03   	Y: -0.11   	Z: 9.34  	m/s^2
+Magn. X: 0.05   	Y: 0.85   	Z: 0.42  	gauss
+Gyro  X: -3.12   	Y: 0.14   	Z: -2.98  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -1.02   	Y: 0.24   	Z: 9.41  	m/s^2
+Magn. X: 0.82   	Y: 0.80   	Z: 0.39  	gauss
+Gyro  X: -2.95   	Y: 0.28   	Z: -4.73  	dps
+Temp: 24.62 *C
+**********************
+
+Accel X: -1.05   	Y: 0.24   	Z: 9.38  	m/s^2
+Magn. X: 0.82   	Y: 0.80   	Z: 0.39  	gauss
+Gyro  X: -2.78   	Y: 0.83   	Z: -4.96  	dps
+Temp: 24.50 *C
+**********************
+
+Accel X: -1.16   	Y: 0.40   	Z: 9.40  	m/s^2
+Magn. X: 0.80   	Y: 0.79   	Z: 0.39  	gauss
+Gyro  X: -2.72   	Y: 0.15   	Z: -10.96  	dps
+Temp: 24.62 *C
+**********************
+
+Accel X: -1.05   	Y: 0.23   	Z: 9.39  	m/s^2
+Magn. X: 0.77   	Y: 0.81   	Z: 0.38  	gauss
+Gyro  X: -2.49   	Y: 0.62   	Z: -4.97  	dps
+Temp: 24.50 *C
